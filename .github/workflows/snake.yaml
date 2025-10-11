@@ -4,6 +4,9 @@ on:
   schedule:         # run automatically every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch: # allow manual trigger
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
