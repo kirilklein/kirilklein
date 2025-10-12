@@ -106,5 +106,9 @@
 ---
 
 <p align="center">
+  <sub>✨ README inspired by <a href="https://github.com/zumrudu-anka/zumrudu-anka">zumrudu-anka</a> — customized by <a href="https://github.com/kirilklein">Kiril Klein</a></sub>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
 </p>
