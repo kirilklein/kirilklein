@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kiril+👋;Data+Scientist+@+Aiomic;PhD+Candidate+@+DIKU;Healthcare+ML&center=true&size=26">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Kiril+👋;Data+Scientist+@+Aiomic;PhD+Candidate+@+DIKU;ML+for+Healthcare&center=true&size=26">
   </a>
 </h1>
 
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  I'm a Data Scientist and PhD Candidate working on causal inference, healthcare data, and large-scale machine learning systems.  
+  I’m a Data Scientist and PhD Candidate focused on causal inference and large-scale machine learning for healthcare data.
   <br>
   <br>
   🎓 Currently pursuing my PhD at <b>University of Copenhagen (DIKU)</b>  
