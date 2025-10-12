@@ -25,7 +25,7 @@
   <br>
   🔍 Developing <a href="https://github.com/kirilklein/PHAIR_EHR"><b>Causal-CORE-BEHRT</b></a> — causal extensions for scalable pharmacovigilance analyses  
   <br>
-  💬 Passionate about research that bridges AI and healthcare  
+  💬 Interested in ML for healthcare  
 </p>
 
 ---
@@ -34,13 +34,16 @@
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+  <code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="PyTorch" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"></code>
+  <code><img title="TensorFlow" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"></code>
   <code><img title="Pandas" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"></code>
   <code><img title="NumPy" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"></code>
-  <code><img title="Dask" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img title="Dask" height="25" src="https://raw.githubusercontent.com/dask/dask/main/docs/source/images/dask_icon.svg"></code>
+  <code><img title="AzureML" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
+  <code><img title="Docker" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-  <code><img title="Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-  <code><img title="VSCode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img title="SLURM" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg"></code>
 </p>
 
 ---
