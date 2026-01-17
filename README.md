@@ -51,53 +51,49 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=kirilklein&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true" />
   </a>
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirilklein&layout=compact&theme=react&border_color=61dafb&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirilklein&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 <h2 align="center">🔬 Featured Projects 🔬</h2>
-<br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/mikkelfo/CORE-BEHRT/tree/azure#readme" title="Core-BEHRT">
-    <img align="left" height="115"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=mikkelfo&repo=CORE-BEHRT&theme=react&border_color=61dafb&border_radius=10&show_owner=true&description_lines_count=3&cache_seconds=21600">
-  </a>
-  <a align="right" href="https://github.com/kirilklein/PHAIR_EHR" title="Causal-Core-BEHRT (PHAIR-EHR)">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kirilklein&repo=PHAIR_EHR&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/FGA-DIKU/EHR"><b>CORE-BEHRT</b></a><br>
+      <sub>End-to-end framework for modeling Electronic Health Records</sub><br><br>
+      <a href="https://github.com/FGA-DIKU/EHR/stargazers"><img src="https://img.shields.io/github/stars/FGA-DIKU/EHR?style=flat-square&color=61dafb" alt="Stars"></a>
+      <a href="https://github.com/FGA-DIKU/EHR/network/members"><img src="https://img.shields.io/github/forks/FGA-DIKU/EHR?style=flat-square&color=61dafb" alt="Forks"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kirilklein/PHAIR_EHR"><b>Causal-CORE-BEHRT</b></a><br>
+      <sub>Causal extensions for scalable pharmacovigilance analyses</sub><br><br>
+      <a href="https://github.com/kirilklein/PHAIR_EHR/stargazers"><img src="https://img.shields.io/github/stars/kirilklein/PHAIR_EHR?style=flat-square&color=61dafb" alt="Stars"></a>
+      <a href="https://github.com/kirilklein/PHAIR_EHR/network/members"><img src="https://img.shields.io/github/forks/kirilklein/PHAIR_EHR?style=flat-square&color=61dafb" alt="Forks"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kirilklein/CausalEstimate"><b>CausalEstimate</b></a><br>
+      <sub>Causal inference estimation library</sub><br><br>
+      <a href="https://github.com/kirilklein/CausalEstimate/stargazers"><img src="https://img.shields.io/github/stars/kirilklein/CausalEstimate?style=flat-square&color=61dafb" alt="Stars"></a>
+      <a href="https://github.com/kirilklein/CausalEstimate/network/members"><img src="https://img.shields.io/github/forks/kirilklein/CausalEstimate?style=flat-square&color=61dafb" alt="Forks"></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mikkelfo/CORE-BEHRT"><b>CORE-BEHRT (Original)</b></a><br>
+      <sub>Original CORE-BEHRT implementation</sub><br><br>
+      <a href="https://github.com/mikkelfo/CORE-BEHRT/stargazers"><img src="https://img.shields.io/github/stars/mikkelfo/CORE-BEHRT?style=flat-square&color=61dafb" alt="Stars"></a>
+      <a href="https://github.com/mikkelfo/CORE-BEHRT/network/members"><img src="https://img.shields.io/github/forks/mikkelfo/CORE-BEHRT?style=flat-square&color=61dafb" alt="Forks"></a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/kirilklein/CausalEstimate" title="CausalEstimate">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kirilklein&repo=CausalEstimate&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/FGA-DIKU/EHR" title="BONSAI (Core-BEHRT)">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FGA-DIKU&repo=EHR&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
+<p align="center">
   <a href="https://github.com/kirilklein?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+</p>
 
 ---
 
