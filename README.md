@@ -1,11 +1,11 @@
 <h1 align="center">Kiril Klein, PhD</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/kiril-klein-574809211" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao" title="Google Scholar Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"> Scholar</a></code>
-  <code><a href="mailto:kiril.vadimovic.klein@gmail.com" title="Email"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"> Email</a></code>
-</h5>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kiril-klein-574809211" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao" title="Google Scholar Profile"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="mailto:kiril.vadimovic.klein@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
@@ -51,7 +51,12 @@
 </p>
 
 <p align="center">
-  <sub>Also: PyTorch Lightning · Hydra · XGBoost · LightGBM · TF-IDF · CI/CD</sub>
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" alt="PyTorch Lightning">
+  <img src="https://img.shields.io/badge/Hydra-54C7EC?style=flat-square&logoColor=white" alt="Hydra">
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logoColor=white" alt="LightGBM">
+  <img src="https://img.shields.io/badge/TF--IDF-6E7B8B?style=flat-square&logoColor=white" alt="TF-IDF">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
 </p>
 
 ---
