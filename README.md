@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true&v=2" />
   </a>
 </p>
 
