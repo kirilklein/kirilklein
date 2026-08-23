@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kiril-klein-574809211" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kiril-klein-phd-574809211" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao" title="Google Scholar Profile"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:kiril.vadimovic.klein@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -112,7 +112,7 @@
 
 <p align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true&v=2" />
   </a>
 </p>
 
