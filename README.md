@@ -111,8 +111,8 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true" />
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="github-metrics.svg" alt="GitHub metrics" width="100%">
   </a>
 </p>
 
