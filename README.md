@@ -7,13 +7,16 @@
   <a href="mailto:kiril.vadimovic.klein@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+<p align="center">
+  Some professional work appears under my work GitHub account:
+  <a href="https://github.com/kvk-cmd"><b>@kvk-cmd</b></a>
+</p>
+
 ---
 
 <p align="center">
   Machine Learning Engineer with a PhD in Machine Learning and Causal Inference.
-  I build end-to-end ML systems — from data pipelines and model training through validation,
-  containerization, and production integration.
-  My work spans transformers, NLP on clinical data, and causal inference on longitudinal electronic health records.
+  I work on ML systems, clinical NLP, and causal inference using longitudinal electronic health records.
 </p>
 
 ---
@@ -21,13 +24,13 @@
 <h2 align="center">🛠️ What I work on 🛠️</h2>
 
 <p align="center">
-  🏥 At <b>Aiomic</b> (Copenhagen), I build end-to-end ML pipelines that combine transformers and classical ML for clinical data
+  🏥 At <b>Aiomic</b> (Copenhagen), I work on ML pipelines that combine transformers and classical ML for clinical data
   <br>
-  🔁 ETL pipelines, training and validation, Docker-based services, CI/CD, and production integration
+  🔁 Data preparation, model training and validation, Docker-based services, and CI/CD
   <br>
-  🧠 Transformers and NLP on clinical data — pre-training from scratch on structured longitudinal EHR and fine-tuning for predictive tasks
+  🧠 Transformers and NLP on clinical data, including pre-training on structured longitudinal EHR and fine-tuning for predictive tasks
   <br>
-  🎓 <b>PhD in Machine Learning and Causal Inference</b>, University of Copenhagen — dissertation:
+  🎓 <b>PhD in Machine Learning and Causal Inference</b>, University of Copenhagen. Dissertation:
   <i>Scalable Causal Inference on Electronic Health Records Using Transformers</i>
   <br>
   🌍 Contributor to <a href="https://medical-event-data-standard.github.io/"><b>MEDS</b></a>, the community standard and ecosystem for ML on structured medical data
@@ -73,7 +76,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://proceedings.mlr.press/v252/odgaard24a.html"><b>CORE-BEHRT (paper)</b></a><br>
-      <sub>A Carefully Optimized and Rigorously Evaluated BEHRT — PMLR vol. 252, 2024 (joint first authorship)</sub><br><br>
+      <sub>A Carefully Optimized and Rigorously Evaluated BEHRT. PMLR vol. 252, 2024 (joint first authorship)</sub><br><br>
       <a href="https://proceedings.mlr.press/v252/odgaard24a.html"><img src="https://img.shields.io/badge/PMLR-v252-61dafb?style=flat-square" alt="PMLR"></a>
     </td>
   </tr>
@@ -86,7 +89,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/mikkelfo/CORE-BEHRT"><b>CORE-BEHRT (original)</b></a><br>
-      <sub>Original CORE-BEHRT implementation — contributor</sub><br><br>
+      <sub>Original CORE-BEHRT implementation. Contributor.</sub><br><br>
       <a href="https://github.com/mikkelfo/CORE-BEHRT/stargazers"><img src="https://img.shields.io/github/stars/mikkelfo/CORE-BEHRT?style=flat-square&color=61dafb" alt="Stars"></a>
       <a href="https://github.com/mikkelfo/CORE-BEHRT/network/members"><img src="https://img.shields.io/github/forks/mikkelfo/CORE-BEHRT?style=flat-square&color=61dafb" alt="Forks"></a>
     </td>
@@ -94,7 +97,7 @@
   <tr>
     <td align="center" colspan="2">
       <a href="https://doi.org/10.1056/AIra2501253"><b>MEDS — An Emerging Data Standard and Ecosystem for Health AI Research</b></a><br>
-      <sub>NEJM AI, 2026 — co-author. Community standard for ML on structured medical data
+      <sub>NEJM AI, 2026, co-author. Community standard for ML on structured medical data
       (<a href="https://medical-event-data-standard.github.io/">website</a> ·
       <a href="https://github.com/Medical-Event-Data-Standard">GitHub org</a>)</sub><br><br>
       <a href="https://doi.org/10.1056/AIra2501253"><img src="https://img.shields.io/badge/NEJM%20AI-2026-61dafb?style=flat-square" alt="NEJM AI"></a>
