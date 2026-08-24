@@ -47,7 +47,7 @@
   <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
   <code><img title="Bash" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
   <code><img title="Azure" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"></code>
-  <code><img title="SLURM / HPC" height="25" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Slurm_logo.svg"></code>
+  <code><img title="Dask" height="25" src="https://raw.githubusercontent.com/dask/dask/main/docs/source/images/dask_icon.svg"></code>
 </p>
 
 <p align="center">
@@ -104,21 +104,4 @@
 
 <p align="center">
   <a href="https://github.com/kirilklein?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kirilklein&theme=react&border=61dafb&hide_border=true&v=2" />
-  </a>
-</p>
-
----
-
-### 🐍 Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kirilklein/kirilklein/output/github-contribution-grid-snake.svg" width="100%">
 </p>
