@@ -33,7 +33,7 @@
   🎓 <b>PhD in Machine Learning and Causal Inference</b>, University of Copenhagen. Dissertation:
   <i>Scalable Causal Inference on Electronic Health Records Using Transformers</i>
   <br>
-  🌍 Contributor to <a href="https://medical-event-data-standard.github.io/"><b>MEDS</b></a>, the community standard and ecosystem for ML on structured medical data
+  🌍 Co-author of the <a href="https://doi.org/10.1056/AIra2501253"><b>MEDS</b></a> paper (NEJM AI), the community standard and ecosystem for ML on structured medical data
 </p>
 
 ---
