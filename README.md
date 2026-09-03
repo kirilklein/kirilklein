@@ -56,9 +56,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" alt="PyTorch Lightning">
   <img src="https://img.shields.io/badge/Hydra-54C7EC?style=flat-square&logoColor=white" alt="Hydra">
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white" alt="XGBoost">
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logoColor=white" alt="LightGBM">
-  <img src="https://img.shields.io/badge/TF--IDF-6E7B8B?style=flat-square&logoColor=white" alt="TF-IDF">
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
 </p>
 
