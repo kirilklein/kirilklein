@@ -1,4 +1,4 @@
-<h1 align="center">Kiril Klein, PhD</h1>
+<h1 align="center">Kiril Klein</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
 <p align="center">
