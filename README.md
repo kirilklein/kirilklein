@@ -1,55 +1,45 @@
 <h1 align="center">Kiril Klein</h1>
-<h3 align="center">Machine Learning Engineer · Causal Inference & Clinical NLP · PhD</h3>
+<h3 align="center">ML Engineer · NLP & LLMs · Causal Inference · PhD</h3>
 
 <p align="center">
+  <a href="https://kirilklein.github.io/" title="Website"><img src="https://img.shields.io/badge/Website-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/kiril-klein-phd-574809211" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao" title="Google Scholar Profile"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="mailto:kiril.vadimovic.klein@gmail.com" title="Email"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  I build ML systems for clinical data: transformers pre-trained on longitudinal electronic health records,
-  clinical NLP pipelines, and causal-inference methods for estimating treatment effects from observational data.
-  PhD in Machine Learning and Causal Inference, University of Copenhagen.
+  I build ML systems end to end, from data preparation and training to deployment and evaluation.<br>
+  My work spans NLP and LLMs, transformers for longitudinal health records, and causal inference.<br>
+  I like open-source tools that make hard methods easier to apply and explore.
 </p>
 
 ---
 
-<h2 align="center">Work</h2>
+## Open source
 
-<p align="center">
-  <b>Aiomic</b> (Copenhagen) — building the product ML stack from scratch: transformers combined with classical NLP/ML
-  in a single pipeline, from data preparation and training through validation to Docker-based services and CI/CD.
-  <br><br>
-  <b>PhD, University of Copenhagen</b> — <i>Scalable Causal Inference on Electronic Health Records Using Transformers</i>.
-  Pre-training transformers on structured longitudinal EHR and using them for outcome prediction and treatment-effect estimation.
-  <br><br>
-  <b>Currently</b> — maintaining <a href="https://github.com/kirilklein/CausalEstimate">CausalEstimate</a> and
-  contributing treatment-effect fixes to <a href="https://github.com/statsmodels/statsmodels">statsmodels</a>.
-</p>
+- **[Causal Sandbox](https://kirilklein.github.io/causal-sandbox/)** ([source](https://github.com/kirilklein/causal-sandbox)): learn causal inference in the browser. Guided lessons and a simulator with confounders, mediators, colliders and six estimators, checked against the known true effect.
+- **[CausalEstimate](https://kirilklein.github.io/CausalEstimate/)** ([source](https://github.com/kirilklein/CausalEstimate)): a Python library for treatment-effect estimation from propensity scores and outcome predictions. IPW, AIPW, TMLE, matching, bootstrap confidence intervals.
+- **[BONSAI](https://github.com/FGA-DIKU/BONSAI)** and **[BONSAI Causal](https://github.com/kirilklein/bonsai-causal)**: a framework for training transformers on electronic health records, and its extension for causal effect estimation. Main developer.
+- **[statsmodels](https://github.com/statsmodels/statsmodels/pulls?q=is%3Apr+author%3Akirilklein+is%3Amerged)**: four merged pull requests to `TreatmentEffect`, adding overlap and balance diagnostics and ATET/ATC for AIPW, and fixing propensity clipping and the GMM moment conditions.
 
----
+## Work
 
-<h2 align="center">Selected publications</h2>
+- **Machine Learning Engineer, [Aiomic](https://www.aiomic.com/)** (Copenhagen, 2025 to now). Designed and built the ML system for clinical document analysis from scratch and brought it into production. It combines gradient boosting, fine-tuned encoder transformers and LLMs in one workflow, and returns the supporting document excerpts for specialist review.
+- **PhD, University of Copenhagen** (2022 to 2026). *Scalable Causal Inference on Electronic Health Records Using Transformers.* A method for estimating causal drug effects from the longitudinal records of more than 2 million patients, built for drug-safety screening in PHAIR, a project involving the Danish Medicines Agency.
 
-<p align="center">
-  <a href="https://proceedings.mlr.press/v252/odgaard24a.html"><b>CORE-BEHRT: A Carefully Optimized and Rigorously Evaluated BEHRT</b></a><br>
-  <sub>PMLR vol. 252 (MLHC), 2024. Joint first author.</sub>
-  <br><br>
-  <a href="https://doi.org/10.1056/AIra2501253"><b>MEDS — An Emerging Data Standard and Ecosystem for Health AI Research</b></a><br>
-  <sub>NEJM AI, 2026. Co-author.
-  (<a href="https://medical-event-data-standard.github.io/">website</a> · <a href="https://github.com/Medical-Event-Data-Standard">GitHub org</a>)</sub>
-  <br><br>
-  <a href="https://doi.org/10.21105/joss.08869"><b>BONSAI: A framework for processing and analysing Electronic Health Records (EHR) data using transformer-based models</b></a><br>
-  <sub>Journal of Open Source Software, 2025. Co-author.</sub>
-  <br><br>
-  <sub>Full list on <a href="https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao">Google Scholar</a>.</sub>
-</p>
+## Selected publications
+
+- **[CORE-BEHRT: A Carefully Optimized and Rigorously Evaluated BEHRT](https://proceedings.mlr.press/v252/odgaard24a.html)**. MLHC 2024 (PMLR vol. 252), joint first author. Outperformed the baseline on 24 of 25 clinical prediction tasks.
+- **[MEDS — An Emerging Data Standard and Ecosystem for Health AI Research](https://doi.org/10.1056/AIra2501253)**. NEJM AI, 2026, co-author.
+- **[BONSAI: A framework for processing and analysing Electronic Health Records (EHR) data using transformer-based models](https://doi.org/10.21105/joss.08869)**. Journal of Open Source Software, 2025, co-author.
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=8k9TwncAAAAJ&hl=en&oi=ao).
 
 ---
 
 <p align="center">
-  <sub>Python · PyTorch / Lightning · Hydra · scikit-learn · Dask · Docker · Azure · GitHub Actions</sub>
+  <sub>Python · PyTorch / Lightning · Hugging Face Transformers · scikit-learn · Hydra · Dask · Docker · Azure ML · GitHub Actions</sub>
 </p>
 
 <p align="center">
