@@ -26,7 +26,7 @@
 ## Work
 
 - **Machine Learning Engineer, [Aiomic](https://www.aiomic.com/)** (Copenhagen, 2025 to now). Designed and built the ML system for clinical document analysis from scratch and brought it into production. It combines gradient boosting, fine-tuned encoder transformers and LLMs in one workflow, and returns the supporting document excerpts for specialist review.
-- **PhD, University of Copenhagen** (2022 to 2026). *Scalable Causal Inference on Electronic Health Records Using Transformers.* A method for estimating causal drug effects from the longitudinal records of more than 2 million patients, built for drug-safety screening in PHAIR, a project involving the Danish Medicines Agency.
+- **PhD, University of Copenhagen** (2022 to 2026). *[Scalable Causal Inference on Electronic Health Records Using Transformers](https://kirilklein.github.io/assets/Kiril_Klein_PhD_Thesis.pdf).* A method for estimating causal drug effects from the longitudinal records of more than 2 million patients, built for drug-safety screening in PHAIR, a project involving the Danish Medicines Agency.
 
 ## Selected publications
 
